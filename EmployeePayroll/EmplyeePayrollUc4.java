@@ -138,7 +138,7 @@ class FileService {
 }
 
 //================== Main Class ==================
-public class EmployeePayrollUc4 {
+ class EmployeePayrollUc4 {
 
     public static void main(String[] args) {
 
